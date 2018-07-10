@@ -16,7 +16,7 @@
 
 
 ## 공유
-![스프링 문서](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)
+[스프링 레퍼런스](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)
 
 
 ## 어제까지 진도
